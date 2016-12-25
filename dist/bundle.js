@@ -51,7 +51,7 @@
 	// yell('world');
 	hashChange.on('change', function(hash) {
 		yell(hash);
-	});
+	}); 
 
 /***/ },
 /* 1 */

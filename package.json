@@ -1,0 +1,21 @@
+{
+  "name": "frontend_tooling",
+  "version": "1.0.0",
+  "description": "front tools",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "keywords": [
+    "frontend",
+    "tools"
+  ],
+  "author": "Bowen Zhong",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.14.0"
+  }
+}
